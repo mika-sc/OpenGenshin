@@ -1,5 +1,5 @@
 # OpenGenshin
-An open-source Genshin Impact project for DOS systems.
+An open-source Genshin Impact project for DOS systems (8088+).
 
 Preparing, may release in 2027.
 
