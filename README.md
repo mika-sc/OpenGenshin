@@ -3,6 +3,21 @@ An open-source Genshin Impact project for DOS systems (8088+).
 
 Preparing, may release in 2027.
 
+### Minimum system requirements:
+
+    CPU: 8088 @ 4.77 MHz.
+    RAM: 256Kb.
+    GRAPHICS: CGA.
+    SOUND: PC Speaker
+    
+### Recommended system requirements:
+
+    CPU: 80286 @ 8 MHz.
+    RAM: 640Kb.
+    GRAPHICS: VGA.
+    SOUND: OPL2 (AdLib Soundcard/Compatible) or MIDI.
+
+
 ### Plans
 
 Subsequent updates will follow the update order of official Genshin.
