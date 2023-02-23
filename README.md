@@ -1,7 +1,7 @@
 # OpenGenshin
-An open-source Genshin Impact project for DOS systems (8088+).
+An open-source Genshin Impact project for DOS systems (8088+), based on Little Game Engine.
 
-Preparing, may release in 2027.
+Making now.
 
 ### Minimum system requirements:
 
