@@ -3,6 +3,15 @@ An open-source Genshin Impact project for DOS systems (8088+), based on Little G
 
 Making now.
 
+### Steps
+    
+    1. Map (South Mond-stadt n' Liyue, without snowmount)
+    2. Charactor
+    3. Sounds
+    4. Attaching engine         <- Maybe year 2025 in this step
+    5. Elements calculating
+    6. External things (Inazuma, North M-S & Natlan)
+
 ### Minimum system requirements:
 
     CPU: 8088 @ 4.77 MHz.
