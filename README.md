@@ -1,9 +1,10 @@
 # <div align='center'>Genshin Impact for DOS</div>
 <div align='center'>An open-source Genshin Impact project for DOS systems (8088+), based on Little Game Engine.</div>
 
+
 ### <div align='center'>Making now.</div>
 
-### Steps
+### ✔️ Steps
     
     1. Map (South Mond-stadt n' Liyue, without snowmount)
     2. Charactor
@@ -39,3 +40,4 @@ Subsequent updates will follow the update order of official Genshin.
 |v1.2|The Chalk Prince and the Dragon|Not yet|
 |...|...|...|
 
+About Little Game Engine, see here: https://github.com/mills32/Little-Game-Engine-for-VGA-EGA
