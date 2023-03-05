@@ -7,7 +7,7 @@ Making now.
 
     CPU: 8088 @ 4.77 MHz.
     RAM: 256Kb.
-    GRAPHICS: <b>EGA</b>.
+    GRAPHICS: EGA.
     SOUND: PC Speaker
     
 ### Recommended system requirements:
