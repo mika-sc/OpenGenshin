@@ -1,1 +1,33 @@
+./FI : Pictures here.
+
+teyvat.tmx/bmp:							Teyvat total map.
+
+aether.bmp					[Aether]		Lead of story.
+sohp.bmp					[Sustainer]		Sustainer of Heavenly Principles, the unknown archon.
+
+ms_01ab.bmp		[Mond-stadt]	[Amber]			
+ms_02ky.bmp		[Mond-stadt]	[Kaeya]
+ms_03ls.bmp		[Mond-stadt]	[Lisa]
+ms_04je.bmp		[Mond-stadt]	[Jean]
+ms_05vt.bmp		[Mond-stadt]	[Venti]		Anemo archon.
+ms_06ne.bmp		[Mond-stadt]	[Noelle]	
+ms_07bn.bmp		[Mond-stadt]	[Bennett]
+ms_08
+
+ly_01zl.bmp		[Liyue]		[Zhongli]		Geo archon.
+ly_02xi.bmp		[Liyue]		[Xiao]		Yaksha. Meaning a wind instrument.
+ly_03gy.bmp		[Liyue]		[Ganyu]		
+ly_04kc.bmp		[Liyue]		[Keching]		
+ly_05bd.bmp		[Liyue]		[Beidou]		
+ly_06xc.bmp		[Liyue]		[Xingchiou]		
+
+iz_01re.bmp		[Inazuma]		[Raiden Ei]		ELECTRO archon.
+iz_02th.bmp		[Inazuma]		[Thoma]
+iz_03kh.bmp		[Inazuma]		[Kazuha]	
+iz_04ka.bmp		[Inazuma]		[Ayaka]
+iz_05kt.bmp		[Inazuma]		[Ayato]
+iz_06gr.bmp		[Inazuma-Sango]	[Gorou]
+iz_07sk.bmp		[Inazuma-Sango]	[Sangonomia]
+iz_08ks.bmp		[Inazuma]		[Sara]
+		
 
