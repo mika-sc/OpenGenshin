@@ -6,7 +6,7 @@
 
 ### ✔️ Steps
     
-    1. Map (South Mond-stadt n' Liyue, without snowmount)
+    <b>1. Map (South Mond-stadt n' Liyue, without snowmount)</b>
     2. Charactor
     3. Sounds
     4. Attaching engine         <- Maybe year 2025 in this step
@@ -16,8 +16,8 @@
 ### Minimum system requirements:
 
     CPU: 8088 @ 4.77 MHz.
-    RAM: 256Kb.
-    GRAPHICS: EGA.
+    RAM: 448Kb.
+    GRAPHICS: EGA (may not be supported future).
     SOUND: PC Speaker
     
 ### Recommended system requirements:
@@ -25,7 +25,7 @@
     CPU: 80286 @ 8 MHz.
     RAM: 640Kb.
     GRAPHICS: VGA.
-    SOUND: OPL2 (AdLib Soundcard/Compatible) or MIDI.
+    SOUND: OPL2 (AdLib Soundcard/compatible) or MIDI.
 
 
 ### Plans
