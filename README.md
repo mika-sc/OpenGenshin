@@ -6,7 +6,7 @@
 
 ### ✔️ Steps
     
-    <b>1. Map (South Mond-stadt n' Liyue, without snowmount)</b>
+    1. Map (South Mond-stadt n' Liyue, without snowmount)           <<- Now
     2. Charactor
     3. Sounds
     4. Attaching engine         <- Maybe year 2025 in this step
