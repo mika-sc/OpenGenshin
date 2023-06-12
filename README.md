@@ -1,6 +1,7 @@
 ### <div align='center'>Northern Project VI</div>
 # <div align='center'>Genshin Impact for DOS</div>
 <div align='center'>An open-source Genshin Impact project for DOS systems (8088+), based on Little Game Engine.</div>
+<div align='center'>This projcet has been put off and will be restart in July.</div>
 
 
 ### <div align='center'>Making now.</div>
